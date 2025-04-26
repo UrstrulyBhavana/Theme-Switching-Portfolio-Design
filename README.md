@@ -1,5 +1,13 @@
 # 🌟 Personal Portfolio Website with Dark Mode Toggle
 
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/e8a9aee4-2c5f-4a7d-bb63-bf45e844c1a4)
+
+---
+
 A visually appealing and interactive portfolio website to showcase your professional work and creative skills. This project includes a toggleable dark mode feature, persistent theme storage, and smooth navigation.
 
 ---
@@ -42,6 +50,26 @@ A visually appealing and interactive portfolio website to showcase your professi
 
 ---
 
-## Demo.gif
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
 
-![Image](https://github.com/user-attachments/assets/e8a9aee4-2c5f-4a7d-bb63-bf45e844c1a4)
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
